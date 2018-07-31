@@ -1,0 +1,7 @@
+body{
+	background-color: pink;
+}
+.photo{
+	display:inline-block;
+	border:2px solid;
+}
